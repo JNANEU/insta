@@ -1,11 +1,10 @@
 @import "bootstrap";
-
-.nav-link a:link{
+a:link{
     text-decoration:none;
     color: black;
 }
 
-.navbar-brand a:link{
-    text-decoration:none;
-    color: black;
+.authBlock, #ExitLink{
+    margin-left:auto;
+    margin-right:1em;
 }
